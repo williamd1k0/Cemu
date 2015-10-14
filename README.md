@@ -9,18 +9,20 @@ Current version is 1.0.0 (proof-of-concept release)
 ### Controls:
 Currently the only supported controller is the DRC (GamePad).  
 It's mapped to the keyboard and cannot be changed.
-```
-Button A       X or Z  
-Button B       C  
-Button Y       D  
-Button X       F  
-Trigger L      Q  
-Trigger R      R  
-Trigger ZL     E  
-Trigger ZR     R  
-Left Stick     Arrow keys  
-Right Stick    H U J K  
-Button Plus    B  
-Button Minus   N  
-Touch input    Use mouse  
-```
+
+|GamePad                 | Keyboard                                           |
+|------------------------|----------------------------------------------------|
+|Button <kbd>A</kbd>     | <kbd>X</kbd> or <kbd>Z</kbd>                       |  
+|Button <kbd>B</kbd>     | <kbd>C</kbd>                                       |  
+|Button <kbd>Y</kbd>     | <kbd>D</kbd>                                       |  
+|Button <kbd>X</kbd>     | <kbd>F</kbd>                                       |  
+|Trigger <kbd>L</kbd>    | <kbd>Q</kbd>                                       |  
+|Trigger <kbd>R</kbd>    | <kbd>R</kbd>                                       |  
+|Trigger <kbd>ZL</kbd>   | <kbd>E</kbd>                                       |  
+|Trigger <kbd>ZR</kbd>   | <kbd>R</kbd>                                       |  
+|Left Stick              | `Arrow keys`                                       |  
+|Right Stick             | <kbd>H</kbd> <kbd>U</kbd> <kbd>J</kbd> <kbd>K</kbd>|  
+|Button <kbd>+</kbd>     | <kbd>B</kbd>                                       |
+|Button <kbd>-</kbd>     | <kbd>N</kbd>                                       |  
+|Touch input             | `Use mouse`                                        |  
+
